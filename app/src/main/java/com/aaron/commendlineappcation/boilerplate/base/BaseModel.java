@@ -1,4 +1,4 @@
-package com.aaron.commendlineappcation.boilerplate;
+package com.aaron.commendlineappcation.boilerplate.base;
 
 public class BaseModel {
 

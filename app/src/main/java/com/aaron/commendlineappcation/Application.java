@@ -1,8 +1,8 @@
 package com.aaron.commendlineappcation;
 
-import com.aaron.commendlineappcation.boilerplate.ApplicationCotroller;
-import com.aaron.commendlineappcation.boilerplate.ApplicationModel;
-import com.aaron.commendlineappcation.boilerplate.ApplicationView;
+import com.aaron.commendlineappcation.boilerplate.controller.ApplicationCotroller;
+import com.aaron.commendlineappcation.boilerplate.model.ApplicationModel;
+import com.aaron.commendlineappcation.boilerplate.view.ApplicationView;
 
 public class Application {
 
